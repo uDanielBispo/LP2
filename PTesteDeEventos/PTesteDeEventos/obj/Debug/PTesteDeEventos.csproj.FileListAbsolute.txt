@@ -1,0 +1,11 @@
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PTesteDeEventos\PTesteDeEventos\bin\Debug\PTesteDeEventos.exe.config
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PTesteDeEventos\PTesteDeEventos\bin\Debug\PTesteDeEventos.exe
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PTesteDeEventos\PTesteDeEventos\bin\Debug\PTesteDeEventos.pdb
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PTesteDeEventos\PTesteDeEventos\obj\Debug\PTesteDeEventos.csproj.AssemblyReference.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PTesteDeEventos\PTesteDeEventos\obj\Debug\PTesteDeEventos.csproj.SuggestedBindingRedirects.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PTesteDeEventos\PTesteDeEventos\obj\Debug\PTesteDeEventos.Form1.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PTesteDeEventos\PTesteDeEventos\obj\Debug\PTesteDeEventos.Properties.Resources.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PTesteDeEventos\PTesteDeEventos\obj\Debug\PTesteDeEventos.csproj.GenerateResource.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PTesteDeEventos\PTesteDeEventos\obj\Debug\PTesteDeEventos.csproj.CoreCompileInputs.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PTesteDeEventos\PTesteDeEventos\obj\Debug\PTesteDeEventos.exe
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PTesteDeEventos\PTesteDeEventos\obj\Debug\PTesteDeEventos.pdb
