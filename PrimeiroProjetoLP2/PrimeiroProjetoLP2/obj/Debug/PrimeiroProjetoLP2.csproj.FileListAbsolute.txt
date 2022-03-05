@@ -1,0 +1,33 @@
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\bin\Debug\PrimeiroProjetoLP2.exe.config
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\bin\Debug\PrimeiroProjetoLP2.exe
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\bin\Debug\PrimeiroProjetoLP2.pdb
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.csproj.AssemblyReference.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.Form1.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.Properties.Resources.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.csproj.GenerateResource.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.csproj.CoreCompileInputs.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.exe
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.pdb
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\bin\Debug\PrimeiroProjetoLP2.exe.config
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\bin\Debug\PrimeiroProjetoLP2.exe
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\bin\Debug\PrimeiroProjetoLP2.pdb
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.csproj.AssemblyReference.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.Form1.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.Properties.Resources.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.csproj.GenerateResource.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.csproj.CoreCompileInputs.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.exe
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_Visual Studio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.pdb
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\bin\Debug\PrimeiroProjetoLP2.exe.config
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\bin\Debug\PrimeiroProjetoLP2.exe
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\bin\Debug\PrimeiroProjetoLP2.pdb
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.csproj.AssemblyReference.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.Form1.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.Properties.Resources.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.csproj.GenerateResource.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.csproj.CoreCompileInputs.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.exe
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP_II_C#_VisualStudio\PrimeiroProjetoLP2\PrimeiroProjetoLP2\obj\Debug\PrimeiroProjetoLP2.pdb
