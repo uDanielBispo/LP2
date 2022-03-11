@@ -1,0 +1,11 @@
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PVolume\PVolume\bin\Debug\PVolume.exe.config
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PVolume\PVolume\bin\Debug\PVolume.exe
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PVolume\PVolume\bin\Debug\PVolume.pdb
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PVolume\PVolume\obj\Debug\PVolume.csproj.SuggestedBindingRedirects.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PVolume\PVolume\obj\Debug\PVolume.Form1.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PVolume\PVolume\obj\Debug\PVolume.Properties.Resources.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PVolume\PVolume\obj\Debug\PVolume.csproj.GenerateResource.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PVolume\PVolume\obj\Debug\PVolume.csproj.CoreCompileInputs.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PVolume\PVolume\obj\Debug\PVolume.exe
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PVolume\PVolume\obj\Debug\PVolume.pdb
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PVolume\PVolume\obj\Debug\PVolume.csproj.AssemblyReference.cache
