@@ -1,0 +1,11 @@
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PCalculadora\PCalculadora\bin\Debug\PCalculadora.exe.config
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PCalculadora\PCalculadora\bin\Debug\PCalculadora.exe
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PCalculadora\PCalculadora\bin\Debug\PCalculadora.pdb
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PCalculadora\PCalculadora\obj\Debug\PCalculadora.csproj.AssemblyReference.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PCalculadora\PCalculadora\obj\Debug\PCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PCalculadora\PCalculadora\obj\Debug\PCalculadora.Form1.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PCalculadora\PCalculadora\obj\Debug\PCalculadora.Properties.Resources.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PCalculadora\PCalculadora\obj\Debug\PCalculadora.csproj.GenerateResource.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PCalculadora\PCalculadora\obj\Debug\PCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PCalculadora\PCalculadora\obj\Debug\PCalculadora.exe
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PVolumeN1\PCalculadora\PCalculadora\obj\Debug\PCalculadora.pdb
