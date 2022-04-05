@@ -9,3 +9,14 @@ C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem d
 C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PTipoTriangulo\PTipoTriangulo\bin\Debug\PTipoTriangulo.pdb
 C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PTipoTriangulo\PTipoTriangulo\obj\Debug\PTipoTriangulo.exe
 C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PTipoTriangulo\PTipoTriangulo\obj\Debug\PTipoTriangulo.pdb
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade4\PTipoTriangulo\PTipoTriangulo\bin\Debug\PTipoTriangulo.exe.config
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade4\PTipoTriangulo\PTipoTriangulo\bin\Debug\PTipoTriangulo.exe
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade4\PTipoTriangulo\PTipoTriangulo\bin\Debug\PTipoTriangulo.pdb
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade4\PTipoTriangulo\PTipoTriangulo\obj\Debug\PTipoTriangulo.csproj.AssemblyReference.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade4\PTipoTriangulo\PTipoTriangulo\obj\Debug\PTipoTriangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade4\PTipoTriangulo\PTipoTriangulo\obj\Debug\PTipoTriangulo.Form1.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade4\PTipoTriangulo\PTipoTriangulo\obj\Debug\PTipoTriangulo.Properties.Resources.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade4\PTipoTriangulo\PTipoTriangulo\obj\Debug\PTipoTriangulo.csproj.GenerateResource.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade4\PTipoTriangulo\PTipoTriangulo\obj\Debug\PTipoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade4\PTipoTriangulo\PTipoTriangulo\obj\Debug\PTipoTriangulo.exe
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade4\PTipoTriangulo\PTipoTriangulo\obj\Debug\PTipoTriangulo.pdb

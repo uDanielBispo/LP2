@@ -29,28 +29,43 @@ namespace PTipoTriangulo
                    ladoC,
                    resposta;
 
-            if(!Double.TryParse(txtLado1.Text, out ladoA))
+            if(!Double.TryParse(txtLadoA.Text, out ladoA))
                 MessageBox.Show("O campo Lado A precisa conter numeros.");
-            if (!Double.TryParse(txtLado2.Text, out ladoB))
+            if (!Double.TryParse(txtLadoB.Text, out ladoB))
                 MessageBox.Show("O campo Lado B precisa conter numeros.");
-            if (!Double.TryParse(txtLado3.Text, out ladoC))
+            if (!Double.TryParse(txtLadoC.Text, out ladoC))
             {
                 MessageBox.Show("O campo Lado C precisa conter numeros.");
                 return;
             }
+            if (ladoA > Math.Abs(ladoB - ladoC) && ladoA < ladoB + ladoC &&
+                ladoB > Math.Abs(ladoA - ladoC) && ladoB < ladoA + ladoC &&
+                ladoC > Math.Abs(ladoA - ladoB) && ladoC < ladoA + ladoB)
+            {
+                MessageBox.Show("Os valores formam um triangulo");
+                if (ladoA == ladoB && ladoB == ladoC)
+                    MessageBox.Show("Equilatero");
+                else if (ladoA == ladoB || ladoB == ladoC || ladoA == ladoC)
+                    MessageBox.Show("Isóceles");
+                else
+                    MessageBox.Show("Escaleno");
+            }
+            else
+            {
+                MessageBox.Show("Os valores nao formam um triangulo");
+            }
+        }
 
-            if (ladoA == ladoB && ladoB == ladoC)
-                MessageBox.Show("Equilatero");
+        private void btnLimpar_Click(object sender, EventArgs e)
+        {
+            txtLadoA.Clear();
+            txtLadoB.Clear();
+            txtLadoC.Clear();
+        }
 
-            /*if(ladoA < Math.Abs(ladoB - ladoC) || ladoA > ladoB + ladoC)
-                MessageBox.Show("Lado1 muito grande ou muito pequeno");
-
-            if(ladoB < Math.Abs(ladoA - ladoC) || ladoB > ladoA + ladoC)
-                MessageBox.Show("Lado2 muito grande ou muito pequeno");
-
-            if(ladoC < Math.Abs(ladoA - ladoB) || ladoC > ladoA + ladoB)
-                MessageBox.Show("Lado3 muito grande ou muito pequeno");*/
-
+        private void btnSair_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }

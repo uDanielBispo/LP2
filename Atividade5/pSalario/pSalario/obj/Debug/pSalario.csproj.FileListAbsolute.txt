@@ -1,0 +1,9 @@
+C:\Users\aluno.local\Documents\Visual Studio 2013\Projects\pSalario\pSalario\pSalario\pSalario\bin\Debug\pSalario.exe.config
+C:\Users\aluno.local\Documents\Visual Studio 2013\Projects\pSalario\pSalario\pSalario\pSalario\bin\Debug\pSalario.exe
+C:\Users\aluno.local\Documents\Visual Studio 2013\Projects\pSalario\pSalario\pSalario\pSalario\bin\Debug\pSalario.pdb
+C:\Users\aluno.local\Documents\Visual Studio 2013\Projects\pSalario\pSalario\pSalario\pSalario\obj\Debug\pSalario.csprojResolveAssemblyReference.cache
+C:\Users\aluno.local\Documents\Visual Studio 2013\Projects\pSalario\pSalario\pSalario\pSalario\obj\Debug\pSalario.frmSalario.resources
+C:\Users\aluno.local\Documents\Visual Studio 2013\Projects\pSalario\pSalario\pSalario\pSalario\obj\Debug\pSalario.Properties.Resources.resources
+C:\Users\aluno.local\Documents\Visual Studio 2013\Projects\pSalario\pSalario\pSalario\pSalario\obj\Debug\pSalario.csproj.GenerateResource.Cache
+C:\Users\aluno.local\Documents\Visual Studio 2013\Projects\pSalario\pSalario\pSalario\pSalario\obj\Debug\pSalario.exe
+C:\Users\aluno.local\Documents\Visual Studio 2013\Projects\pSalario\pSalario\pSalario\pSalario\obj\Debug\pSalario.pdb
