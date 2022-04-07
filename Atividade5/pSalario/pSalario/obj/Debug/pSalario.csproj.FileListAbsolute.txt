@@ -7,3 +7,14 @@ C:\Users\aluno.local\Documents\Visual Studio 2013\Projects\pSalario\pSalario\pSa
 C:\Users\aluno.local\Documents\Visual Studio 2013\Projects\pSalario\pSalario\pSalario\pSalario\obj\Debug\pSalario.csproj.GenerateResource.Cache
 C:\Users\aluno.local\Documents\Visual Studio 2013\Projects\pSalario\pSalario\pSalario\pSalario\obj\Debug\pSalario.exe
 C:\Users\aluno.local\Documents\Visual Studio 2013\Projects\pSalario\pSalario\pSalario\pSalario\obj\Debug\pSalario.pdb
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade5\pSalario\pSalario\obj\Debug\pSalario.csproj.AssemblyReference.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade5\pSalario\pSalario\obj\Debug\pSalario.csproj.SuggestedBindingRedirects.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade5\pSalario\pSalario\obj\Debug\pSalario.frmSalario.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade5\pSalario\pSalario\obj\Debug\pSalario.Properties.Resources.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade5\pSalario\pSalario\obj\Debug\pSalario.csproj.GenerateResource.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade5\pSalario\pSalario\obj\Debug\pSalario.csproj.CoreCompileInputs.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade5\pSalario\pSalario\obj\Debug\pSalario.exe
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade5\pSalario\pSalario\obj\Debug\pSalario.pdb
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade5\pSalario\pSalario\bin\Debug\pSalario.exe.config
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade5\pSalario\pSalario\bin\Debug\pSalario.exe
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade5\pSalario\pSalario\bin\Debug\pSalario.pdb

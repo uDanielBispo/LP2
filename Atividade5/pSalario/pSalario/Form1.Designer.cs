@@ -30,21 +30,21 @@
         {
             this.txtNomeFuncionario = new System.Windows.Forms.TextBox();
             this.mskdbxSalarioBruto = new System.Windows.Forms.MaskedTextBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
+            this.lblNomeFuncionario = new System.Windows.Forms.Label();
+            this.lblSalarioBruto = new System.Windows.Forms.Label();
+            this.lblNumeroFilhos = new System.Windows.Forms.Label();
             this.btnVerificar = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.rbtnFeminino = new System.Windows.Forms.RadioButton();
             this.rbtnMasculino = new System.Windows.Forms.RadioButton();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.AliquotaIRPF = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
+            this.rbtnFeminino = new System.Windows.Forms.RadioButton();
+            this.lblDados = new System.Windows.Forms.Label();
+            this.lblSalarioFamilia = new System.Windows.Forms.Label();
+            this.lblAliquotaIRPF = new System.Windows.Forms.Label();
+            this.lblAliquotaINSS = new System.Windows.Forms.Label();
             this.txtAliquotaINSS = new System.Windows.Forms.TextBox();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
+            this.lblSalarioLiquido = new System.Windows.Forms.Label();
+            this.lblDescontoIRPF = new System.Windows.Forms.Label();
+            this.lblDescontoINSS = new System.Windows.Forms.Label();
             this.txtbDescontoINSS = new System.Windows.Forms.TextBox();
             this.panel1 = new System.Windows.Forms.Panel();
             this.cbxCasada = new System.Windows.Forms.CheckBox();
@@ -72,32 +72,32 @@
             this.mskdbxSalarioBruto.Size = new System.Drawing.Size(169, 20);
             this.mskdbxSalarioBruto.TabIndex = 1;
             // 
-            // label1
+            // lblNomeFuncionario
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(30, 27);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(90, 13);
-            this.label1.TabIndex = 3;
-            this.label1.Text = "Nome funcionário";
+            this.lblNomeFuncionario.AutoSize = true;
+            this.lblNomeFuncionario.Location = new System.Drawing.Point(30, 27);
+            this.lblNomeFuncionario.Name = "lblNomeFuncionario";
+            this.lblNomeFuncionario.Size = new System.Drawing.Size(90, 13);
+            this.lblNomeFuncionario.TabIndex = 3;
+            this.lblNomeFuncionario.Text = "Nome funcionário";
             // 
-            // label2
+            // lblSalarioBruto
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(30, 62);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(69, 13);
-            this.label2.TabIndex = 4;
-            this.label2.Text = "Salarío Bruto";
+            this.lblSalarioBruto.AutoSize = true;
+            this.lblSalarioBruto.Location = new System.Drawing.Point(30, 62);
+            this.lblSalarioBruto.Name = "lblSalarioBruto";
+            this.lblSalarioBruto.Size = new System.Drawing.Size(69, 13);
+            this.lblSalarioBruto.TabIndex = 4;
+            this.lblSalarioBruto.Text = "Salarío Bruto";
             // 
-            // label3
+            // lblNumeroFilhos
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(30, 98);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(89, 13);
-            this.label3.TabIndex = 5;
-            this.label3.Text = "Numero de Filhos";
+            this.lblNumeroFilhos.AutoSize = true;
+            this.lblNumeroFilhos.Location = new System.Drawing.Point(30, 98);
+            this.lblNumeroFilhos.Name = "lblNumeroFilhos";
+            this.lblNumeroFilhos.Size = new System.Drawing.Size(89, 13);
+            this.lblNumeroFilhos.TabIndex = 5;
+            this.lblNumeroFilhos.Text = "Numero de Filhos";
             // 
             // btnVerificar
             // 
@@ -120,6 +120,16 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Sexo";
             // 
+            // rbtnMasculino
+            // 
+            this.rbtnMasculino.AutoSize = true;
+            this.rbtnMasculino.Location = new System.Drawing.Point(20, 63);
+            this.rbtnMasculino.Name = "rbtnMasculino";
+            this.rbtnMasculino.Size = new System.Drawing.Size(73, 17);
+            this.rbtnMasculino.TabIndex = 6;
+            this.rbtnMasculino.Text = "Masculino";
+            this.rbtnMasculino.UseVisualStyleBackColor = true;
+            // 
             // rbtnFeminino
             // 
             this.rbtnFeminino.AutoSize = true;
@@ -132,52 +142,42 @@
             this.rbtnFeminino.Text = "Feminino";
             this.rbtnFeminino.UseVisualStyleBackColor = true;
             // 
-            // rbtnMasculino
+            // lblDados
             // 
-            this.rbtnMasculino.AutoSize = true;
-            this.rbtnMasculino.Location = new System.Drawing.Point(20, 63);
-            this.rbtnMasculino.Name = "rbtnMasculino";
-            this.rbtnMasculino.Size = new System.Drawing.Size(73, 17);
-            this.rbtnMasculino.TabIndex = 6;
-            this.rbtnMasculino.Text = "Masculino";
-            this.rbtnMasculino.UseVisualStyleBackColor = true;
+            this.lblDados.AutoSize = true;
+            this.lblDados.Location = new System.Drawing.Point(30, 168);
+            this.lblDados.Name = "lblDados";
+            this.lblDados.Size = new System.Drawing.Size(52, 13);
+            this.lblDados.TabIndex = 10;
+            this.lblDados.Text = "LblDados";
+            this.lblDados.Visible = false;
             // 
-            // label4
+            // lblSalarioFamilia
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(30, 180);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(52, 13);
-            this.label4.TabIndex = 10;
-            this.label4.Text = "LblDados";
-            this.label4.Visible = false;
+            this.lblSalarioFamilia.AutoSize = true;
+            this.lblSalarioFamilia.Location = new System.Drawing.Point(30, 291);
+            this.lblSalarioFamilia.Name = "lblSalarioFamilia";
+            this.lblSalarioFamilia.Size = new System.Drawing.Size(78, 13);
+            this.lblSalarioFamilia.TabIndex = 16;
+            this.lblSalarioFamilia.Text = "Salarío Família";
             // 
-            // label5
+            // lblAliquotaIRPF
             // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(30, 291);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(78, 13);
-            this.label5.TabIndex = 16;
-            this.label5.Text = "Salarío Família";
+            this.lblAliquotaIRPF.AutoSize = true;
+            this.lblAliquotaIRPF.Location = new System.Drawing.Point(30, 255);
+            this.lblAliquotaIRPF.Name = "lblAliquotaIRPF";
+            this.lblAliquotaIRPF.Size = new System.Drawing.Size(72, 13);
+            this.lblAliquotaIRPF.TabIndex = 15;
+            this.lblAliquotaIRPF.Text = "Aliquota IRPF";
             // 
-            // AliquotaIRPF
+            // lblAliquotaINSS
             // 
-            this.AliquotaIRPF.AutoSize = true;
-            this.AliquotaIRPF.Location = new System.Drawing.Point(30, 255);
-            this.AliquotaIRPF.Name = "AliquotaIRPF";
-            this.AliquotaIRPF.Size = new System.Drawing.Size(72, 13);
-            this.AliquotaIRPF.TabIndex = 15;
-            this.AliquotaIRPF.Text = "Aliquota IRPF";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(30, 220);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(73, 13);
-            this.label7.TabIndex = 14;
-            this.label7.Text = "Aliquota INSS";
+            this.lblAliquotaINSS.AutoSize = true;
+            this.lblAliquotaINSS.Location = new System.Drawing.Point(30, 220);
+            this.lblAliquotaINSS.Name = "lblAliquotaINSS";
+            this.lblAliquotaINSS.Size = new System.Drawing.Size(73, 13);
+            this.lblAliquotaINSS.TabIndex = 14;
+            this.lblAliquotaINSS.Text = "Aliquota INSS";
             // 
             // txtAliquotaINSS
             // 
@@ -187,32 +187,32 @@
             this.txtAliquotaINSS.Size = new System.Drawing.Size(137, 20);
             this.txtAliquotaINSS.TabIndex = 11;
             // 
-            // label8
+            // lblSalarioLiquido
             // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(30, 329);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(80, 13);
-            this.label8.TabIndex = 18;
-            this.label8.Text = "Salarío Líquido";
+            this.lblSalarioLiquido.AutoSize = true;
+            this.lblSalarioLiquido.Location = new System.Drawing.Point(30, 329);
+            this.lblSalarioLiquido.Name = "lblSalarioLiquido";
+            this.lblSalarioLiquido.Size = new System.Drawing.Size(80, 13);
+            this.lblSalarioLiquido.TabIndex = 18;
+            this.lblSalarioLiquido.Text = "Salarío Líquido";
             // 
-            // label9
+            // lblDescontoIRPF
             // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(261, 255);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(80, 13);
-            this.label9.TabIndex = 22;
-            this.label9.Text = "Desconto IRPF";
+            this.lblDescontoIRPF.AutoSize = true;
+            this.lblDescontoIRPF.Location = new System.Drawing.Point(261, 255);
+            this.lblDescontoIRPF.Name = "lblDescontoIRPF";
+            this.lblDescontoIRPF.Size = new System.Drawing.Size(80, 13);
+            this.lblDescontoIRPF.TabIndex = 22;
+            this.lblDescontoIRPF.Text = "Desconto IRPF";
             // 
-            // label10
+            // lblDescontoINSS
             // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(261, 220);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(81, 13);
-            this.label10.TabIndex = 21;
-            this.label10.Text = "Desconto INSS";
+            this.lblDescontoINSS.AutoSize = true;
+            this.lblDescontoINSS.Location = new System.Drawing.Point(261, 220);
+            this.lblDescontoINSS.Name = "lblDescontoINSS";
+            this.lblDescontoINSS.Size = new System.Drawing.Size(81, 13);
+            this.lblDescontoINSS.TabIndex = 21;
+            this.lblDescontoINSS.Text = "Desconto INSS";
             // 
             // txtbDescontoINSS
             // 
@@ -299,27 +299,27 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(509, 379);
+            this.ClientSize = new System.Drawing.Size(493, 377);
             this.Controls.Add(this.txtbDescontoIRPF);
             this.Controls.Add(this.txtbSalarioLiquido);
             this.Controls.Add(this.txtbSalarioFamilia);
             this.Controls.Add(this.txtbAliquotaIRPF);
             this.Controls.Add(this.cbxNumeroDeFilhos);
             this.Controls.Add(this.panel1);
-            this.Controls.Add(this.label9);
-            this.Controls.Add(this.label10);
+            this.Controls.Add(this.lblDescontoIRPF);
+            this.Controls.Add(this.lblDescontoINSS);
             this.Controls.Add(this.txtbDescontoINSS);
-            this.Controls.Add(this.label8);
-            this.Controls.Add(this.label5);
-            this.Controls.Add(this.AliquotaIRPF);
-            this.Controls.Add(this.label7);
+            this.Controls.Add(this.lblSalarioLiquido);
+            this.Controls.Add(this.lblSalarioFamilia);
+            this.Controls.Add(this.lblAliquotaIRPF);
+            this.Controls.Add(this.lblAliquotaINSS);
             this.Controls.Add(this.txtAliquotaINSS);
-            this.Controls.Add(this.label4);
+            this.Controls.Add(this.lblDados);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.btnVerificar);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.lblNumeroFilhos);
+            this.Controls.Add(this.lblSalarioBruto);
+            this.Controls.Add(this.lblNomeFuncionario);
             this.Controls.Add(this.mskdbxSalarioBruto);
             this.Controls.Add(this.txtNomeFuncionario);
             this.Name = "frmSalario";
@@ -338,21 +338,21 @@
 
         private System.Windows.Forms.TextBox txtNomeFuncionario;
         private System.Windows.Forms.MaskedTextBox mskdbxSalarioBruto;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label lblNomeFuncionario;
+        private System.Windows.Forms.Label lblSalarioBruto;
+        private System.Windows.Forms.Label lblNumeroFilhos;
         private System.Windows.Forms.Button btnVerificar;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.RadioButton rbtnMasculino;
         private System.Windows.Forms.RadioButton rbtnFeminino;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label AliquotaIRPF;
-        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label lblDados;
+        private System.Windows.Forms.Label lblSalarioFamilia;
+        private System.Windows.Forms.Label lblAliquotaIRPF;
+        private System.Windows.Forms.Label lblAliquotaINSS;
         private System.Windows.Forms.TextBox txtAliquotaINSS;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Label lblSalarioLiquido;
+        private System.Windows.Forms.Label lblDescontoIRPF;
+        private System.Windows.Forms.Label lblDescontoINSS;
         private System.Windows.Forms.TextBox txtbDescontoINSS;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.CheckBox cbxCasada;
