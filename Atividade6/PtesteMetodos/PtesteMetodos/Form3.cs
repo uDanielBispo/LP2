@@ -51,12 +51,12 @@ namespace PtesteMetodos
         {
             string s = txtPalavra1.Text;
 
-            for(int i=0; i<txtPalavra1.Text.Length()/2; i++)
+            for(int i=0; i<txtPalavra1.Text.Length/2; i++)
             {
 
             }
 
-            /*char[] arr = s.ToCharArray();
+            char[] arr = s.ToCharArray();
             Array.Reverse(arr);
 
             s = "";
@@ -64,7 +64,7 @@ namespace PtesteMetodos
             {
                 s = s + c.ToString();    
             }
-            txtPalavra2.Text = s;*/
+            txtPalavra2.Text = s;
         }
     }
 }

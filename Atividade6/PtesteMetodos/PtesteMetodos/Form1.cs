@@ -22,16 +22,6 @@ namespace PtesteMetodos
             Close();
         }
 
-        private void copyToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("Teclou Ctrl + C");
-        }
-
-        private void pasteToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("Teclou Ctrl + V");
-        }
-
         private void exercício2ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form fc = Application.OpenForms["formExercicio2"];
@@ -85,5 +75,6 @@ namespace PtesteMetodos
             frm5.WindowState = FormWindowState.Maximized;
             frm5.Show();
         }
+
     }
 }

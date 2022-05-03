@@ -35,7 +35,7 @@ namespace PtesteMetodos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(484, 361);
             this.Name = "formExercicio5";
             this.Text = "formExercicio5";
             this.ResumeLayout(false);

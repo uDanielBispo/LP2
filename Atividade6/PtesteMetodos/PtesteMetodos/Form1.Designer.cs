@@ -31,8 +31,6 @@ namespace PtesteMetodos
         {
             this.components = new System.ComponentModel.Container();
             this.exercício2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.copyToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.pasteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exercício3ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exercício4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exercício5ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -49,27 +47,10 @@ namespace PtesteMetodos
             // 
             this.exercício2ToolStripMenuItem.Checked = true;
             this.exercício2ToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.exercício2ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.copyToolStripMenuItem,
-            this.pasteToolStripMenuItem});
             this.exercício2ToolStripMenuItem.Name = "exercício2ToolStripMenuItem";
             this.exercício2ToolStripMenuItem.Size = new System.Drawing.Size(75, 20);
             this.exercício2ToolStripMenuItem.Text = "Exercício &2";
             this.exercício2ToolStripMenuItem.Click += new System.EventHandler(this.exercício2ToolStripMenuItem_Click);
-            // 
-            // copyToolStripMenuItem
-            // 
-            this.copyToolStripMenuItem.Name = "copyToolStripMenuItem";
-            this.copyToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.C)));
-            this.copyToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.copyToolStripMenuItem.Text = "Copy";
-            // 
-            // pasteToolStripMenuItem
-            // 
-            this.pasteToolStripMenuItem.Name = "pasteToolStripMenuItem";
-            this.pasteToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.V)));
-            this.pasteToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.pasteToolStripMenuItem.Text = "Paste";
             // 
             // exercício3ToolStripMenuItem
             // 
@@ -109,7 +90,7 @@ namespace PtesteMetodos
             this.sairToolStripMenuItem});
             this.menuPrincipal.Location = new System.Drawing.Point(0, 0);
             this.menuPrincipal.Name = "menuPrincipal";
-            this.menuPrincipal.Size = new System.Drawing.Size(800, 24);
+            this.menuPrincipal.Size = new System.Drawing.Size(484, 24);
             this.menuPrincipal.TabIndex = 1;
             this.menuPrincipal.Text = "menuStrip2";
             // 
@@ -137,7 +118,7 @@ namespace PtesteMetodos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(484, 461);
             this.ContextMenuStrip = this.menuDeContexto1;
             this.Controls.Add(this.menuPrincipal);
             this.IsMdiContainer = true;
@@ -154,8 +135,6 @@ namespace PtesteMetodos
         #endregion
 
         private System.Windows.Forms.ToolStripMenuItem exercício2ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem copyToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem pasteToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exercício3ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exercício4ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exercício5ToolStripMenuItem;

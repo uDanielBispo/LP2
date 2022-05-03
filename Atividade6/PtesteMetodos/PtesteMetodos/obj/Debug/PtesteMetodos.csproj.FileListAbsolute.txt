@@ -25,3 +25,18 @@ C:\Users\aluno\Desktop\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.Prope
 C:\Users\aluno\Desktop\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.csproj.GenerateResource.cache
 C:\Users\aluno\Desktop\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.exe
 C:\Users\aluno\Desktop\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.pdb
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade6\PtesteMetodos\PtesteMetodos\bin\Debug\PtesteMetodos.exe.config
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade6\PtesteMetodos\PtesteMetodos\bin\Debug\PtesteMetodos.exe
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade6\PtesteMetodos\PtesteMetodos\bin\Debug\PtesteMetodos.pdb
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade6\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.csproj.AssemblyReference.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade6\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade6\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.frmPrincipal.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade6\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.formExercicio2.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade6\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.formExercicio3.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade6\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.formExercicio4.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade6\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.formExercicio5.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade6\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.Properties.Resources.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade6\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.csproj.GenerateResource.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade6\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.csproj.CoreCompileInputs.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade6\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.exe
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\Atividade6\PtesteMetodos\PtesteMetodos\obj\Debug\PtesteMetodos.pdb
