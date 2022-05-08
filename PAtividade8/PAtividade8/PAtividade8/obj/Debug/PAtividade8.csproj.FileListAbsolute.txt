@@ -1,0 +1,26 @@
+C:\Users\0030482123005\Desktop\PAtividade8\PAtividade8\PAtividade8\bin\Debug\PAtividade8.exe.config
+C:\Users\0030482123005\Desktop\PAtividade8\PAtividade8\PAtividade8\bin\Debug\PAtividade8.exe
+C:\Users\0030482123005\Desktop\PAtividade8\PAtividade8\PAtividade8\bin\Debug\PAtividade8.pdb
+C:\Users\0030482123005\Desktop\PAtividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csprojAssemblyReference.cache
+C:\Users\0030482123005\Desktop\PAtividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmPrincipal.resources
+C:\Users\0030482123005\Desktop\PAtividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio1.resources
+C:\Users\0030482123005\Desktop\PAtividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.Properties.Resources.resources
+C:\Users\0030482123005\Desktop\PAtividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csproj.GenerateResource.cache
+C:\Users\0030482123005\Desktop\PAtividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.exe
+C:\Users\0030482123005\Desktop\PAtividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.pdb
+C:\Users\0030482123005\Desktop\PAtividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio2.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PAtividade8\PAtividade8\PAtividade8\bin\Debug\PAtividade8.exe.config
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PAtividade8\PAtividade8\PAtividade8\bin\Debug\PAtividade8.exe
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PAtividade8\PAtividade8\PAtividade8\bin\Debug\PAtividade8.pdb
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PAtividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csproj.AssemblyReference.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PAtividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csproj.SuggestedBindingRedirects.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PAtividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmPrincipal.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PAtividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio1.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PAtividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio2.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PAtividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio3.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PAtividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.Properties.Resources.resources
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PAtividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csproj.GenerateResource.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PAtividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csproj.CoreCompileInputs.cache
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PAtividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.exe
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PAtividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.pdb
+C:\Users\João\OneDrive - Fatec Centro Paula Souza\Fatec\2ºSemestre\Linguagem de Programação II\LP2\PAtividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio4.resources
