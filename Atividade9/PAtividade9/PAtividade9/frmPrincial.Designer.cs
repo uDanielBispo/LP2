@@ -35,6 +35,7 @@
             this.exercicio4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exercicio5ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sairToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.exercicio6ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -46,6 +47,7 @@
             this.exercicio3ToolStripMenuItem,
             this.exercicio4ToolStripMenuItem,
             this.exercicio5ToolStripMenuItem,
+            this.exercicio6ToolStripMenuItem,
             this.sairToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
@@ -96,6 +98,13 @@
             this.sairToolStripMenuItem.Text = " &Sair";
             this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
             // 
+            // exercicio6ToolStripMenuItem
+            // 
+            this.exercicio6ToolStripMenuItem.Name = "exercicio6ToolStripMenuItem";
+            this.exercicio6ToolStripMenuItem.Size = new System.Drawing.Size(75, 20);
+            this.exercicio6ToolStripMenuItem.Text = "Exercicio &6";
+            this.exercicio6ToolStripMenuItem.Click += new System.EventHandler(this.exercicio6ToolStripMenuItem_Click);
+            // 
             // frmPrincial
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -122,6 +131,7 @@
         private System.Windows.Forms.ToolStripMenuItem exercicio4ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exercicio5ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem sairToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem exercicio6ToolStripMenuItem;
     }
 }
 

@@ -92,5 +92,18 @@ namespace PAtividade9
             objFrm.WindowState = FormWindowState.Maximized;
             objFrm.Show();
         }
+
+        private void exercicio6ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form fc = Application.OpenForms["frmExercicio6"];
+
+            if (fc != null)
+                fc.Close();
+
+            frmExercicio6 objFrm = new frmExercicio6();
+            objFrm.MdiParent = this;
+            objFrm.WindowState = FormWindowState.Maximized;
+            objFrm.Show();
+        }
     }
 }
