@@ -1,0 +1,9 @@
+C:\Users\Aluno\source\repos\ProvaPratica1\ProvaPratica1\bin\Debug\ProvaPratica1.exe.config
+C:\Users\Aluno\source\repos\ProvaPratica1\ProvaPratica1\bin\Debug\ProvaPratica1.exe
+C:\Users\Aluno\source\repos\ProvaPratica1\ProvaPratica1\bin\Debug\ProvaPratica1.pdb
+C:\Users\Aluno\source\repos\ProvaPratica1\ProvaPratica1\obj\Debug\ProvaPratica1.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\ProvaPratica1\ProvaPratica1\obj\Debug\ProvaPratica1.frmVendas.resources
+C:\Users\Aluno\source\repos\ProvaPratica1\ProvaPratica1\obj\Debug\ProvaPratica1.Properties.Resources.resources
+C:\Users\Aluno\source\repos\ProvaPratica1\ProvaPratica1\obj\Debug\ProvaPratica1.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\ProvaPratica1\ProvaPratica1\obj\Debug\ProvaPratica1.exe
+C:\Users\Aluno\source\repos\ProvaPratica1\ProvaPratica1\obj\Debug\ProvaPratica1.pdb
